@@ -1,3 +1,3 @@
 // Write your code in this file!
-const currentUser = "Welcome to Facebook, "
-const wecomeMessage = ``
+const currentUser = "Grace Hopper"
+const wecomeMessage = `Welcome to Facebook, ${currentUser}`
